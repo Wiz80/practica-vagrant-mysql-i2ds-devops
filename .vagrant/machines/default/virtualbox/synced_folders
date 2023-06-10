@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/003468661/Documents/i2ds/practica-vagrant-mysql-i2ds-devops","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
